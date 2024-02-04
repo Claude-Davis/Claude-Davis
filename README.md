@@ -6,8 +6,8 @@ My name is Claudé Davis.
 
 
 📚: In the Fall of 2024 I will be attending Kennesaw State University as a Computer Science and Information Technology double major.
-   💻: Computer Science: Concentrstion in Artficial Intelligence (AI)
-   🌐: Information Technology: Concentration in Cyber Operations Security
+- 💻: Computer Science: Concentrstion in Artficial Intelligence (AI)
+- 🌐: Information Technology: Concentration in Cyber Operations Security
 
 
 👩‍💻: My career goal is to become a Computer Forensics Analyst.
