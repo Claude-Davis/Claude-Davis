@@ -2,6 +2,7 @@
 My name is Claudé Davis.
 
 🎓: I am a graduate of Mount Zion High School (class of 2024).
+
 🤖: I am learning coding and simulations.
 
 
