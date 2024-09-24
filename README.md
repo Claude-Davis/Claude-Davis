@@ -1,4 +1,4 @@
-# Hello! 👋
+# Hello!
 My name is Claudé Davis.
 
 🎓: I am a graduate of Mount Zion High School (class of 2024).
